@@ -1,7 +1,5 @@
-idea/ 
-belajarJava.iml 
-out/ 
-src/sketch/ 
-bayu_java.iml 
+.idea/
+JavaBaru.iml
+out/
 .DS_Store 
 src/.DS_Store
